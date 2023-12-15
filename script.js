@@ -46,7 +46,7 @@ function shakeMagic8Ball() {
             color = "text-success"
             break
         case 6:
-            answer = "outloook is good"
+            answer = "out loook is good"
             image = "good-image.jpg" // chnage this
             color = "text-success"
             break
