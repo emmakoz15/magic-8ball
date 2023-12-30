@@ -17,42 +17,42 @@ function shakeMagic8Ball() {
     switch (randomNumber) {
         case 0:
             answer = "Yes"
-            image = "yes-image.jpg" // chnage this
-            color = "text-success"
+            image = "icons8-checkmark-500.png" 
+            color = "text-primary"
             break
         case 1:
             answer = "no"
-            image = "no-image.jpg" // chnage this
+            image = "icons8-no-500.png" 
             color = "text-danger"
             break
         case 2:
             answer = "Maybe"
-            image = "maybe-image.jpg" // chnage this
+            image = "maybe.png" 
             color = "text-warning"
             break
         case 3:
             answer = "ask again later"
-            image = "later-image.jpg" // chnage this
+            image = "free-reschedule-4205752-3507274.png" 
             color = "text-success"
             break
         case 4:
-            answer = "It is Certain"
-            image = "certain-image.jpg" // chnage this
+            answer = "Definitly"
+            image = "dedinitly.jpeg" // chnage this
             color = "text-success"
             break
         case 5:
             answer = "Do not count on it"
-            image = "count-image.jpg" // chnage this
+            image = "sorry.png" 
             color = "text-success"
             break
         case 6:
             answer = "out loook is good"
-            image = "good-image.jpg" // chnage this
+            image = "thumb.png" 
             color = "text-success"
             break
         case 7:
             answer = "My sources say no"
-            image = "srcno-image.jpg" // chnage this
+            image = "srno.png" 
             color = "text-success"
             break
     }
