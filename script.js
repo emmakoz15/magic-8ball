@@ -37,7 +37,7 @@ function shakeMagic8Ball() {
             break
         case 4:
             answer = "Definitly"
-            image = "dedinitly.jpeg" // chnage this
+            image = "icons8-smile-100.png" 
             color = "text-success"
             break
         case 5:
